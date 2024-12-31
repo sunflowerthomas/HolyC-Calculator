@@ -1,2 +1,3 @@
-# HolyC-Calculator
-Calculator built in Holy C
+# Holy C Calculator
+##AKA God's favorite calculator
+A calculator built in Holy C
